@@ -29,3 +29,5 @@ The flags can be changed and set through the following table:
 ![image](https://github.com/SogolGoodarzi/Simulation-of-a-Processor/assets/125180530/edee3fb6-0e57-47aa-9fe7-dc07f66ef68d)
 
 The aim of this project is to write a program which finds the smallest element of an array of 10 elements and then write the value and it's index in 2000th and 2004th addresses of memory. Then for improving the project we simulate it with pipeline method. 
+
+You can find the related files attached.
